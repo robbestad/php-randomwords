@@ -21,5 +21,7 @@
         "psr-0": {"SarRandomWords": "src/"}
     },
     "suggest": {
+        "svenanders/sarmysql" : "Lightweight MySQL/MariaDB implementation",
+        "svenanders/securehash" : "Create Secure hashes based on Blowfish"
     }
 }
